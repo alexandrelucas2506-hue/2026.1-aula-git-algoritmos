@@ -1,0 +1,21 @@
+TESTES EXECUTADOS - AULA 07
+
+1. Criar tarefa "Estudar Python" 
+   Esperado: Mensagem de sucesso
+   Obtido: ✅ Sucesso (Apareceu: Tarefa 'Estudar Python' criada com sucesso!)
+
+2. Criar tarefa com nome vazio 
+   Esperado: Mensagem de erro 
+   Obtido: ✅ Erro exibido (Apareceu: Nome da tarefa não pode ser vazio!)
+
+3. Opção inválida "9" 
+   Esperado: Mensagem de opção inválida 
+   Obtido: ✅ Error exibido (Apareceu: Opção inválida! Digite 1, 2, 3 ou 4)
+
+4. Listar sem tarefas
+   Esperado: Aviso de lista vazia
+   Obtido: ✅ Sucesso (Apareceu: Nenhuma tarefa registrada ainda)
+
+5. Contar tarefas
+   Esperado: Mostrar a quantidade correta
+   Obtido: ✅ Sucesso (Apareceu: Você tem X tarefa(s))
