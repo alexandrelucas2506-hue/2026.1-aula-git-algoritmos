@@ -1,0 +1,35 @@
+Adicionar item "Mouse Gamer"
+
+Esperado: Mensagem de sucesso e item inserido na lista.
+
+Obtido: Sucesso (Apareceu: >> Mouse Gamer adicionado!)
+
+2. Listar itens com o carrinho cheio
+
+Esperado: Exibir o nome do produto e o preço formatado.
+
+Obtido: Sucesso (Apareceu: 1. Mouse Gamer - R$70.00)
+
+3. Remover item específico (Opção 4)
+
+Esperado: Mostrar a lista numerada e remover apenas o escolhido.
+
+Obtido: Sucesso (Ao digitar "1", apareceu: >> Sucesso! Mouse Gamer foi removido do carrinho.)
+
+4. Testar erro de digitação na remoção
+
+Esperado: Mensagem de erro amigável se digitar letras.
+
+Obtido: Erro tratado (Ao digitar "abc", apareceu: Erro: Por favor, digite apenas números!)
+
+5. Ver total acumulado (Opção 3)
+
+Esperado: Somar os preços de todos os dicionários na lista.
+
+Obtido: Sucesso (Com Mouse e Teclado, apareceu: Total acumulado: R$230.00)
+
+6. Finalizar compra (Opção 5)
+
+Esperado: Mostrar o total final e zerar a lista.
+
+Obtido: Sucesso (Apareceu: === COMPRA FINALIZADA === e, ao listar depois, o carrinho estava vazio).
